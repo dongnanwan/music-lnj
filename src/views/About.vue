@@ -1,5 +1,16 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
+    <div class="about">
+		<div class="box">
+
+		</div>
+	</div> 
 </template>
+
+<style lang="scss">
+	.box{
+		width: 2260px;
+		height: 20px;
+		background: blue;
+		transform: translate(50px,50px);
+	}
+</style>
